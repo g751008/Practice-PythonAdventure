@@ -1,0 +1,7 @@
+print "space:"
+print "A really big place"
+print "that contains a lot of stuff"
+print "and a lot of nothing between the stuff."
+print "This is why it is called space."
+print ""
+print "This definition of space is stupid."
